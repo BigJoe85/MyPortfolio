@@ -15,10 +15,10 @@ const Projects = [
         pro: ["Research: Analyzed existing platforms for inspiration.", "Brand Design: Crafted a unique, trustworthy identity.", "UI/UX: Developed a user-friendly desktop app with intuitive navigation.", "Gamification: Implemented a points system and leaderboard for user engagement.", "Testing: Iterative refinement based on user feedback."],
 
         img1: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789644179/Screenshot_2026-09-17_at_07.22.27_pdtdx7.png",
-        img2: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1785173837/Screenshot_2026-07-27_at_13.34.36_st5fcf.png",
-        img3: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1783553546/27dz3dvldxjSYi4WSUg9H9Bs_2_fnzbxm.webp",
-        img4: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1783553615/evnNViRjHJQolx5WRRrCvwEQo_zbe8l8.webp",
-        img5: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1783254187/copy_of_27dz3dvldxjsyi4wsug9h9bs_nvxwrc.webp",
+        img2: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789645876/Screenshot_2026-09-17_at_07.50.48_aaijgj.png",
+        img3: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789645650/Screenshot_2026-09-17_at_07.45.37_vi0pu7.png",
+        img4: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789645650/Screenshot_2026-09-17_at_07.46.07_lusxat.png",
+        img5: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789645649/Screenshot_2026-09-17_at_07.46.47_nt5vvv.png",
         link: "https://manuelcreatives.vercel.app/"
     },
 
@@ -42,7 +42,7 @@ const Projects = [
         img3: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789644102/Screenshot_2026-09-17_at_07.17.58_wdnfig.png",
         img4: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789644103/Screenshot_2026-09-17_at_07.07.32_juj5od.png",
         img5: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789644102/Screenshot_2026-09-17_at_07.08.02_geueyf.png",
-        link: "https://manuelcreatives.vercel.app/"
+        link: "https://pg-label-exvx.vercel.app/"
     },
 
     {
@@ -65,7 +65,7 @@ const Projects = [
         img3: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789644380/Screenshot_2026-09-17_at_07.25.11_hffmw4.png",
         img4: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789644380/Screenshot_2026-09-17_at_07.25.35_a212zk.png",
         img5: "https://res.cloudinary.com/duoy2tsyc/image/upload/v1789644379/Screenshot_2026-09-17_at_07.24.22_ldxyja.png",
-        link: "https://manuelcreatives.vercel.app/"
+        link: "#"
     },
 
    
