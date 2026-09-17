@@ -21,13 +21,13 @@ const Experience = () => {
             company: "BrandSpar.ng",
             role: "Creative Motion Designer",
             type: "Full-time",
-            period: "2019-2024",
+            period: "2019-24",
         },
         {
-            company: "Seofied",
-            role: "Visual Designer",
+            company: "NiftyWeb Studio",
+            role: "Creative Designer",
             type: "Full-time",
-            period: "2019-21",
+            period: "2020-2023",
         },
     ];
 

@@ -46,7 +46,8 @@ const ProjectDetails = () => {
                         <img src={pro.img1} alt="" className='pb-6' />
 
                         <p className='text-[#a0a0a0] text-[clamp(1rem,3vw,1.25rem)] leading-normal pb-10'>{pro.des3}</p>
-                        <a href={pro.link} key={pro.id} target="_blank" rel="noopener noreferrer" className='bg-[#131315] hover:bg-[#1a1a1c] text-[#e8e8e8] font-medium py-2 px-4 rounded-lg border border-gray-600/[0.5] transition-all duration-300'>View Project</a>
+                        {/* <a href={pro.link} key={pro.id} target="_blank" rel="noopener noreferrer" className='bg-[#131315] hover:bg-[#1a1a1c] text-[#e8e8e8] font-medium py-2 px-4 rounded-lg border border-gray-600/[0.5] transition-all duration-300'>View Project</a> */}
+                        <a href="https://wa.me/2348101817385" target="_blank" rel="noopener noreferrer" className='max-w-max  shadow-[inset_0px_5px_8px_0px_rgba(255,215,190,0.65),inset_0px_-10px_14px_-2px_rgba(80,25,6,0.85)] text-[#e8e8e8] py-2 px-4 rounded-full flex items-center justify-center bg-gradient-to-b from-[#f53c08] to-[#f36207]'>View Project</a>
                     </div>
                 </div>
                 : <p className='text-green-600'>Not Found</p>
